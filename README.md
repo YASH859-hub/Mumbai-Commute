@@ -4,7 +4,7 @@
 
 ## Overview
 
-Mumbai Commute Copilot is a Progressive Web App (PWA) designed to solve the complexities of daily travel in one of the world's most congested and dynamic cities. Rather than just offering generic map directions, it functions as a highly context-aware decision engine that factors in the unique environmental and transit constraints of Mumbai.
+Mumbai Commute Copilot is a Progressive Web App (PWA) designed to solve the complexities of daily travel in one of the world's most congested and dynamic cities. Originally developed as a hackathon project, Mumbai Commute Copilot explores how AI-assisted decision making can improve everyday urban mobility in Mumbai. Rather than just offering generic map directions, it functions as a highly context-aware decision engine that factors in the unique environmental and transit constraints of the city.
 
 The application intelligently evaluates routes across Mumbai's massive multimodal network—including Suburban Local Trains, the rapidly expanding Metro lines, BEST Electric AC Buses, and private Cabs/Autos. By understanding the user's specific persona and current city conditions, it generates tailored recommendations that balance time, cost, safety, and comfort.
 
@@ -183,3 +183,13 @@ Mumbai-Commute/
 │   ├── App.tsx             # Main layout & Dual View (Desktop / Mobile Frame) controller
 │   └── main.tsx            # React root
 ```
+
+---
+
+## 🏆 Hackathon / Competition
+
+This project was originally developed for **NEXATHON 2026** by **Team Hackcartel**. 
+
+We addressed the core problem of unpredictable urban mobility in Mumbai—where monsoon floods, high tides, and transit disruptions frequently paralyze the city. Our solution demonstrated an intelligent multimodal commute decision platform that doesn't just show routes, but explains *why* a specific route is recommended based on the user's priorities and the active city scenario.
+
+Key technologies showcased during the competition included React 19, Vite, Tailwind CSS v4, and Leaflet for map rendering, driven by a robust client-side simulation engine designed to handle complex routing logic and a mock Copilot assistant.
