@@ -1,0 +1,6 @@
+{
+  "name": "Mumbai Commute Copilot",
+  "description": "An AI-powered multimodal commute decision engine for Mumbai featuring congestion prediction, flood and high tide intelligence, crowd analytics, and confidence-aware leave-by recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
